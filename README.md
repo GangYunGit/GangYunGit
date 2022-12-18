@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&desc=GangYun's%20GitHub&descAlign=55)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rkddbs202)](https://solved.ac/rkddbs202)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkddbs202)](https://solved.ac/rkddbs202)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GangYunGit&layout=compact)](https://github.com/GangYunGit/github-readme-stats)
 
 <div align=center><h1>📚 STACKS</h1></div>

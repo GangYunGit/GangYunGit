@@ -1,11 +1,11 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&desc=GangYun's%20GitHub&descAlign=55">
   <img src="https://github-readme-stats.vercel.app/api?username=GangYunGit&show_icons=true&theme=radical">
-  <hr>
+  <br>
   
   <h3>💡 Algorithm</h3>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkddbs202">
-  <hr>
+  <br>
   
   <h3>📚 STACKS</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
